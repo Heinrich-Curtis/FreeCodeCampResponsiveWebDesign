@@ -1,0 +1,15 @@
+body {
+  /*
+  background-color: burlywood;
+  */
+}
+
+h1, h2, p {
+  text-align: center;
+}
+
+#menu {
+  /*width: 300px hard-coded number, not very responsive if width changes*/
+  width: 80%; /*better, always 80% of parent*/
+  background-color: burlywood;
+}
